@@ -20,7 +20,7 @@ These export commands must be run in both of the terminal windows below.
 
 ```
 git clone https://github.com/CloudKarafka/python-kafka-example.git
-cd python-kafka-example`
+cd python-kafka-example
 pip install confluent_kafka
 python consumer.py
 ```
